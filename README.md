@@ -1,4 +1,8 @@
+#Ex.no:1
 #  Mean and variance of a discrete  distribution
+#NAME:MAGESHWARAN T.A
+#REF.NO:24901214
+#DATE:10\10\24
 
 
 # Aim : 
